@@ -1,0 +1,4 @@
+Tables Created :
+. Student
+. Course
+. Enrollment
